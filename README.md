@@ -1,13 +1,15 @@
-Hi there
+### Hi there 👋, i am Daniel Medrado
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Hey there, i'm Daniel and i study software/website development.
+C# and Web development student
 
-Technologies i use: 
+Skills: C#/HTML/CSS/Javascript
 
-> C#
+- 🔭 I’m currently working on Small projects for learning purposes 
+- 🌱 I’m currently learning C#/HTML/CSS/Javascript 
+- 💬 Ask me about Anything 
+- ⚡ Fun fact: I like cats 
 
-> JavaScript
 
-> HTML
 
-> CSS
+
